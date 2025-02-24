@@ -1,0 +1,10 @@
+2025-02-12 17:18:11 - INFO - 
+Running operation 67acd7ce117557554625e82e (@voxel51/panels/compute_near_duplicates)
+2025-02-12 17:19:48 - INFO - Computing embeddings...
+2025-02-12 17:19:49 - INFO - Downloading media...
+2025-02-12 17:20:07 - INFO -  100% |███████| 200/200 [18.2s elapsed, 0s remaining, 15.5 samples/s]      
+2025-02-12 17:24:09 - INFO -  100% |███████| 200/200 [4.0m elapsed, 0s remaining, 0.9 samples/s]     
+2025-02-12 17:24:09 - INFO - Generating index for 200 embeddings...
+2025-02-12 17:24:09 - INFO - Index complete
+2025-02-12 17:24:10 - INFO - Operation 67acd7ce117557554625e82e complete
+2025-02-12 17:24:10 - INFO - Flushing logs to gs://delegated-operator-logs/lanzhen-ephem/do_logs/2025/2/12/67acd7ce117557554625e82e.log
