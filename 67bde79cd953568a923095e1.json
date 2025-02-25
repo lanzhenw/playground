@@ -1,0 +1,1602 @@
+[
+    {
+        "timestamp": "2025-02-24T15:59:23.093147Z",
+        "level": "INFO",
+        "service": "payment-gateway",
+        "message": "Log entry 0 - Sample log message for database",
+        "request_id": "req-5761",
+        "user_id": null
+    },
+    {
+        "timestamp": "2025-02-24T15:59:53.093147Z",
+        "level": "DEBUG",
+        "service": "auth-service",
+        "message": "Log entry 1 - Sample log message for api-gateway",
+        "request_id": "req-8427",
+        "user_id": 103
+    },
+    {
+        "timestamp": "2025-02-24T16:00:23.093147Z",
+        "level": "DEBUG",
+        "service": "payment-gateway",
+        "message": "Log entry 2 - Sample log message for payment-gateway",
+        "request_id": "req-9997",
+        "user_id": 397
+    },
+    {
+        "timestamp": "2025-02-24T16:00:53.093147Z",
+        "level": "CRITICAL",
+        "service": "user-service",
+        "message": "Log entry 3 - Sample log message for payment-gateway",
+        "request_id": "req-5819",
+        "user_id": 440
+    },
+    {
+        "timestamp": "2025-02-24T16:01:23.093147Z",
+        "level": "CRITICAL",
+        "service": "user-service",
+        "message": "Log entry 4 - Sample log message for auth-service",
+        "request_id": "req-9824",
+        "user_id": 805
+    },
+    {
+        "timestamp": "2025-02-24T16:01:53.093147Z",
+        "level": "ERROR",
+        "service": "database",
+        "message": "Log entry 5 - Sample log message for user-service",
+        "request_id": "req-7576",
+        "user_id": 617
+    },
+    {
+        "timestamp": "2025-02-24T16:02:23.093147Z",
+        "level": "CRITICAL",
+        "service": "api-gateway",
+        "message": "Log entry 6 - Sample log message for payment-gateway",
+        "request_id": "req-2627",
+        "user_id": 272
+    },
+    {
+        "timestamp": "2025-02-24T16:02:53.093147Z",
+        "level": "INFO",
+        "service": "api-gateway",
+        "message": "Log entry 7 - Sample log message for payment-gateway",
+        "request_id": "req-1243",
+        "user_id": 329
+    },
+    {
+        "timestamp": "2025-02-24T16:03:23.093147Z",
+        "level": "ERROR",
+        "service": "user-service",
+        "message": "Log entry 8 - Sample log message for user-service",
+        "request_id": "req-1747",
+        "user_id": 297
+    },
+    {
+        "timestamp": "2025-02-24T16:03:53.093147Z",
+        "level": "CRITICAL",
+        "service": "auth-service",
+        "message": "Log entry 9 - Sample log message for database",
+        "request_id": "req-4564",
+        "user_id": null
+    },
+    {
+        "timestamp": "2025-02-24T16:04:23.093147Z",
+        "level": "INFO",
+        "service": "payment-gateway",
+        "message": "Log entry 10 - Sample log message for user-service",
+        "request_id": "req-8760",
+        "user_id": 596
+    },
+    {
+        "timestamp": "2025-02-24T16:04:53.093147Z",
+        "level": "INFO",
+        "service": "auth-service",
+        "message": "Log entry 11 - Sample log message for database",
+        "request_id": "req-5073",
+        "user_id": 117
+    },
+    {
+        "timestamp": "2025-02-24T16:05:23.093147Z",
+        "level": "WARNING",
+        "service": "payment-gateway",
+        "message": "Log entry 12 - Sample log message for auth-service",
+        "request_id": "req-1302",
+        "user_id": 821
+    },
+    {
+        "timestamp": "2025-02-24T16:05:53.093147Z",
+        "level": "INFO",
+        "service": "database",
+        "message": "Log entry 13 - Sample log message for user-service",
+        "request_id": "req-6820",
+        "user_id": 358
+    },
+    {
+        "timestamp": "2025-02-24T16:06:23.093147Z",
+        "level": "DEBUG",
+        "service": "api-gateway",
+        "message": "Log entry 14 - Sample log message for database",
+        "request_id": "req-4547",
+        "user_id": 399
+    },
+    {
+        "timestamp": "2025-02-24T16:06:53.093147Z",
+        "level": "DEBUG",
+        "service": "database",
+        "message": "Log entry 15 - Sample log message for database",
+        "request_id": "req-2433",
+        "user_id": 559
+    },
+    {
+        "timestamp": "2025-02-24T16:07:23.093147Z",
+        "level": "DEBUG",
+        "service": "database",
+        "message": "Log entry 16 - Sample log message for database",
+        "request_id": "req-2886",
+        "user_id": null
+    },
+    {
+        "timestamp": "2025-02-24T16:07:53.093147Z",
+        "level": "DEBUG",
+        "service": "auth-service",
+        "message": "Log entry 17 - Sample log message for database",
+        "request_id": "req-3011",
+        "user_id": 489
+    },
+    {
+        "timestamp": "2025-02-24T16:08:23.093147Z",
+        "level": "DEBUG",
+        "service": "database",
+        "message": "Log entry 18 - Sample log message for auth-service",
+        "request_id": "req-1204",
+        "user_id": 614
+    },
+    {
+        "timestamp": "2025-02-24T16:08:53.093147Z",
+        "level": "INFO",
+        "service": "database",
+        "message": "Log entry 19 - Sample log message for database",
+        "request_id": "req-7057",
+        "user_id": 340
+    },
+    {
+        "timestamp": "2025-02-24T16:09:23.093147Z",
+        "level": "ERROR",
+        "service": "payment-gateway",
+        "message": "Log entry 20 - Sample log message for database",
+        "request_id": "req-1037",
+        "user_id": 316
+    },
+    {
+        "timestamp": "2025-02-24T16:09:53.093147Z",
+        "level": "ERROR",
+        "service": "auth-service",
+        "message": "Log entry 21 - Sample log message for api-gateway",
+        "request_id": "req-2715",
+        "user_id": 913
+    },
+    {
+        "timestamp": "2025-02-24T16:10:23.093147Z",
+        "level": "INFO",
+        "service": "auth-service",
+        "message": "Log entry 22 - Sample log message for api-gateway",
+        "request_id": "req-5897",
+        "user_id": 955
+    },
+    {
+        "timestamp": "2025-02-24T16:10:53.093147Z",
+        "level": "INFO",
+        "service": "database",
+        "message": "Log entry 23 - Sample log message for database",
+        "request_id": "req-4479",
+        "user_id": 540
+    },
+    {
+        "timestamp": "2025-02-24T16:11:23.093147Z",
+        "level": "CRITICAL",
+        "service": "payment-gateway",
+        "message": "Log entry 24 - Sample log message for database",
+        "request_id": "req-1764",
+        "user_id": 474
+    },
+    {
+        "timestamp": "2025-02-24T16:11:53.093147Z",
+        "level": "ERROR",
+        "service": "payment-gateway",
+        "message": "Log entry 25 - Sample log message for user-service",
+        "request_id": "req-2024",
+        "user_id": 212
+    },
+    {
+        "timestamp": "2025-02-24T16:12:23.093147Z",
+        "level": "DEBUG",
+        "service": "payment-gateway",
+        "message": "Log entry 26 - Sample log message for user-service",
+        "request_id": "req-1928",
+        "user_id": null
+    },
+    {
+        "timestamp": "2025-02-24T16:12:53.093147Z",
+        "level": "ERROR",
+        "service": "auth-service",
+        "message": "Log entry 27 - Sample log message for api-gateway",
+        "request_id": "req-7315",
+        "user_id": null
+    },
+    {
+        "timestamp": "2025-02-24T16:13:23.093147Z",
+        "level": "CRITICAL",
+        "service": "user-service",
+        "message": "Log entry 28 - Sample log message for payment-gateway",
+        "request_id": "req-2249",
+        "user_id": 747
+    },
+    {
+        "timestamp": "2025-02-24T16:13:53.093147Z",
+        "level": "DEBUG",
+        "service": "payment-gateway",
+        "message": "Log entry 29 - Sample log message for database",
+        "request_id": "req-3198",
+        "user_id": 248
+    },
+    {
+        "timestamp": "2025-02-24T16:14:23.093147Z",
+        "level": "DEBUG",
+        "service": "payment-gateway",
+        "message": "Log entry 30 - Sample log message for api-gateway",
+        "request_id": "req-4638",
+        "user_id": 779
+    },
+    {
+        "timestamp": "2025-02-24T16:14:53.093147Z",
+        "level": "ERROR",
+        "service": "payment-gateway",
+        "message": "Log entry 31 - Sample log message for database",
+        "request_id": "req-1513",
+        "user_id": 203
+    },
+    {
+        "timestamp": "2025-02-24T16:15:23.093147Z",
+        "level": "WARNING",
+        "service": "payment-gateway",
+        "message": "Log entry 32 - Sample log message for auth-service",
+        "request_id": "req-5123",
+        "user_id": 118
+    },
+    {
+        "timestamp": "2025-02-24T16:15:53.093147Z",
+        "level": "WARNING",
+        "service": "payment-gateway",
+        "message": "Log entry 33 - Sample log message for payment-gateway",
+        "request_id": "req-3059",
+        "user_id": 294
+    },
+    {
+        "timestamp": "2025-02-24T16:16:23.093147Z",
+        "level": "WARNING",
+        "service": "database",
+        "message": "Log entry 34 - Sample log message for payment-gateway",
+        "request_id": "req-5468",
+        "user_id": 719
+    },
+    {
+        "timestamp": "2025-02-24T16:16:53.093147Z",
+        "level": "CRITICAL",
+        "service": "api-gateway",
+        "message": "Log entry 35 - Sample log message for database",
+        "request_id": "req-1762",
+        "user_id": 268
+    },
+    {
+        "timestamp": "2025-02-24T16:17:23.093147Z",
+        "level": "ERROR",
+        "service": "payment-gateway",
+        "message": "Log entry 36 - Sample log message for payment-gateway",
+        "request_id": "req-4426",
+        "user_id": null
+    },
+    {
+        "timestamp": "2025-02-24T16:17:53.093147Z",
+        "level": "INFO",
+        "service": "api-gateway",
+        "message": "Log entry 37 - Sample log message for user-service",
+        "request_id": "req-6557",
+        "user_id": null
+    },
+    {
+        "timestamp": "2025-02-24T16:18:23.093147Z",
+        "level": "DEBUG",
+        "service": "auth-service",
+        "message": "Log entry 38 - Sample log message for auth-service",
+        "request_id": "req-9652",
+        "user_id": 870
+    },
+    {
+        "timestamp": "2025-02-24T16:18:53.093147Z",
+        "level": "INFO",
+        "service": "api-gateway",
+        "message": "Log entry 39 - Sample log message for payment-gateway",
+        "request_id": "req-3971",
+        "user_id": 834
+    },
+    {
+        "timestamp": "2025-02-24T16:19:23.093147Z",
+        "level": "WARNING",
+        "service": "user-service",
+        "message": "Log entry 40 - Sample log message for api-gateway",
+        "request_id": "req-3268",
+        "user_id": 322
+    },
+    {
+        "timestamp": "2025-02-24T16:19:53.093147Z",
+        "level": "DEBUG",
+        "service": "user-service",
+        "message": "Log entry 41 - Sample log message for auth-service",
+        "request_id": "req-9744",
+        "user_id": 513
+    },
+    {
+        "timestamp": "2025-02-24T16:20:23.093147Z",
+        "level": "ERROR",
+        "service": "database",
+        "message": "Log entry 42 - Sample log message for database",
+        "request_id": "req-6934",
+        "user_id": null
+    },
+    {
+        "timestamp": "2025-02-24T16:20:53.093147Z",
+        "level": "INFO",
+        "service": "payment-gateway",
+        "message": "Log entry 43 - Sample log message for user-service",
+        "request_id": "req-6659",
+        "user_id": null
+    },
+    {
+        "timestamp": "2025-02-24T16:21:23.093147Z",
+        "level": "WARNING",
+        "service": "auth-service",
+        "message": "Log entry 44 - Sample log message for api-gateway",
+        "request_id": "req-7095",
+        "user_id": 798
+    },
+    {
+        "timestamp": "2025-02-24T16:21:53.093147Z",
+        "level": "INFO",
+        "service": "auth-service",
+        "message": "Log entry 45 - Sample log message for auth-service",
+        "request_id": "req-3747",
+        "user_id": 852
+    },
+    {
+        "timestamp": "2025-02-24T16:22:23.093147Z",
+        "level": "INFO",
+        "service": "database",
+        "message": "Log entry 46 - Sample log message for auth-service",
+        "request_id": "req-1820",
+        "user_id": 378
+    },
+    {
+        "timestamp": "2025-02-24T16:22:53.093147Z",
+        "level": "INFO",
+        "service": "auth-service",
+        "message": "Log entry 47 - Sample log message for auth-service",
+        "request_id": "req-2594",
+        "user_id": 132
+    },
+    {
+        "timestamp": "2025-02-24T16:23:23.093147Z",
+        "level": "WARNING",
+        "service": "api-gateway",
+        "message": "Log entry 48 - Sample log message for api-gateway",
+        "request_id": "req-2286",
+        "user_id": 964
+    },
+    {
+        "timestamp": "2025-02-24T16:23:53.093147Z",
+        "level": "CRITICAL",
+        "service": "api-gateway",
+        "message": "Log entry 49 - Sample log message for payment-gateway",
+        "request_id": "req-3894",
+        "user_id": 327
+    },
+    {
+        "timestamp": "2025-02-24T16:24:23.093147Z",
+        "level": "WARNING",
+        "service": "api-gateway",
+        "message": "Log entry 50 - Sample log message for user-service",
+        "request_id": "req-9969",
+        "user_id": 215
+    },
+    {
+        "timestamp": "2025-02-24T16:24:53.093147Z",
+        "level": "INFO",
+        "service": "user-service",
+        "message": "Log entry 51 - Sample log message for user-service",
+        "request_id": "req-8712",
+        "user_id": 732
+    },
+    {
+        "timestamp": "2025-02-24T16:25:23.093147Z",
+        "level": "INFO",
+        "service": "database",
+        "message": "Log entry 52 - Sample log message for payment-gateway",
+        "request_id": "req-5199",
+        "user_id": 130
+    },
+    {
+        "timestamp": "2025-02-24T16:25:53.093147Z",
+        "level": "DEBUG",
+        "service": "user-service",
+        "message": "Log entry 53 - Sample log message for api-gateway",
+        "request_id": "req-1781",
+        "user_id": null
+    },
+    {
+        "timestamp": "2025-02-24T16:26:23.093147Z",
+        "level": "CRITICAL",
+        "service": "user-service",
+        "message": "Log entry 54 - Sample log message for user-service",
+        "request_id": "req-5160",
+        "user_id": 602
+    },
+    {
+        "timestamp": "2025-02-24T16:26:53.093147Z",
+        "level": "DEBUG",
+        "service": "auth-service",
+        "message": "Log entry 55 - Sample log message for auth-service",
+        "request_id": "req-8729",
+        "user_id": 327
+    },
+    {
+        "timestamp": "2025-02-24T16:27:23.093147Z",
+        "level": "ERROR",
+        "service": "api-gateway",
+        "message": "Log entry 56 - Sample log message for auth-service",
+        "request_id": "req-2962",
+        "user_id": null
+    },
+    {
+        "timestamp": "2025-02-24T16:27:53.093147Z",
+        "level": "DEBUG",
+        "service": "database",
+        "message": "Log entry 57 - Sample log message for api-gateway",
+        "request_id": "req-2928",
+        "user_id": null
+    },
+    {
+        "timestamp": "2025-02-24T16:28:23.093147Z",
+        "level": "WARNING",
+        "service": "database",
+        "message": "Log entry 58 - Sample log message for payment-gateway",
+        "request_id": "req-9479",
+        "user_id": 947
+    },
+    {
+        "timestamp": "2025-02-24T16:28:53.093147Z",
+        "level": "INFO",
+        "service": "payment-gateway",
+        "message": "Log entry 59 - Sample log message for payment-gateway",
+        "request_id": "req-3621",
+        "user_id": 561
+    },
+    {
+        "timestamp": "2025-02-24T16:29:23.093147Z",
+        "level": "ERROR",
+        "service": "database",
+        "message": "Log entry 60 - Sample log message for payment-gateway",
+        "request_id": "req-9500",
+        "user_id": 538
+    },
+    {
+        "timestamp": "2025-02-24T16:29:53.093147Z",
+        "level": "INFO",
+        "service": "payment-gateway",
+        "message": "Log entry 61 - Sample log message for user-service",
+        "request_id": "req-5448",
+        "user_id": null
+    },
+    {
+        "timestamp": "2025-02-24T16:30:23.093147Z",
+        "level": "CRITICAL",
+        "service": "database",
+        "message": "Log entry 62 - Sample log message for api-gateway",
+        "request_id": "req-5140",
+        "user_id": 932
+    },
+    {
+        "timestamp": "2025-02-24T16:30:53.093147Z",
+        "level": "CRITICAL",
+        "service": "database",
+        "message": "Log entry 63 - Sample log message for payment-gateway",
+        "request_id": "req-3212",
+        "user_id": null
+    },
+    {
+        "timestamp": "2025-02-24T16:31:23.093147Z",
+        "level": "INFO",
+        "service": "payment-gateway",
+        "message": "Log entry 64 - Sample log message for database",
+        "request_id": "req-4728",
+        "user_id": 932
+    },
+    {
+        "timestamp": "2025-02-24T16:31:53.093147Z",
+        "level": "ERROR",
+        "service": "auth-service",
+        "message": "Log entry 65 - Sample log message for user-service",
+        "request_id": "req-6872",
+        "user_id": 106
+    },
+    {
+        "timestamp": "2025-02-24T16:32:23.093147Z",
+        "level": "ERROR",
+        "service": "user-service",
+        "message": "Log entry 66 - Sample log message for payment-gateway",
+        "request_id": "req-9628",
+        "user_id": 525
+    },
+    {
+        "timestamp": "2025-02-24T16:32:53.093147Z",
+        "level": "INFO",
+        "service": "database",
+        "message": "Log entry 67 - Sample log message for database",
+        "request_id": "req-1984",
+        "user_id": 705
+    },
+    {
+        "timestamp": "2025-02-24T16:33:23.093147Z",
+        "level": "INFO",
+        "service": "api-gateway",
+        "message": "Log entry 68 - Sample log message for auth-service",
+        "request_id": "req-7868",
+        "user_id": 354
+    },
+    {
+        "timestamp": "2025-02-24T16:33:53.093147Z",
+        "level": "CRITICAL",
+        "service": "auth-service",
+        "message": "Log entry 69 - Sample log message for api-gateway",
+        "request_id": "req-2118",
+        "user_id": 586
+    },
+    {
+        "timestamp": "2025-02-24T16:34:23.093147Z",
+        "level": "WARNING",
+        "service": "database",
+        "message": "Log entry 70 - Sample log message for auth-service",
+        "request_id": "req-1157",
+        "user_id": 256
+    },
+    {
+        "timestamp": "2025-02-24T16:34:53.093147Z",
+        "level": "INFO",
+        "service": "auth-service",
+        "message": "Log entry 71 - Sample log message for database",
+        "request_id": "req-1788",
+        "user_id": 746
+    },
+    {
+        "timestamp": "2025-02-24T16:35:23.093147Z",
+        "level": "ERROR",
+        "service": "database",
+        "message": "Log entry 72 - Sample log message for user-service",
+        "request_id": "req-9335",
+        "user_id": 689
+    },
+    {
+        "timestamp": "2025-02-24T16:35:53.093147Z",
+        "level": "INFO",
+        "service": "api-gateway",
+        "message": "Log entry 73 - Sample log message for auth-service",
+        "request_id": "req-2566",
+        "user_id": 460
+    },
+    {
+        "timestamp": "2025-02-24T16:36:23.093147Z",
+        "level": "DEBUG",
+        "service": "user-service",
+        "message": "Log entry 74 - Sample log message for database",
+        "request_id": "req-7689",
+        "user_id": 731
+    },
+    {
+        "timestamp": "2025-02-24T16:36:53.093147Z",
+        "level": "CRITICAL",
+        "service": "auth-service",
+        "message": "Log entry 75 - Sample log message for api-gateway",
+        "request_id": "req-3767",
+        "user_id": 442
+    },
+    {
+        "timestamp": "2025-02-24T16:37:23.093147Z",
+        "level": "CRITICAL",
+        "service": "database",
+        "message": "Log entry 76 - Sample log message for auth-service",
+        "request_id": "req-8397",
+        "user_id": 826
+    },
+    {
+        "timestamp": "2025-02-24T16:37:53.093147Z",
+        "level": "WARNING",
+        "service": "payment-gateway",
+        "message": "Log entry 77 - Sample log message for payment-gateway",
+        "request_id": "req-6830",
+        "user_id": 169
+    },
+    {
+        "timestamp": "2025-02-24T16:38:23.093147Z",
+        "level": "ERROR",
+        "service": "payment-gateway",
+        "message": "Log entry 78 - Sample log message for api-gateway",
+        "request_id": "req-5954",
+        "user_id": 560
+    },
+    {
+        "timestamp": "2025-02-24T16:38:53.093147Z",
+        "level": "INFO",
+        "service": "database",
+        "message": "Log entry 79 - Sample log message for auth-service",
+        "request_id": "req-9255",
+        "user_id": 254
+    },
+    {
+        "timestamp": "2025-02-24T16:39:23.093147Z",
+        "level": "WARNING",
+        "service": "auth-service",
+        "message": "Log entry 80 - Sample log message for database",
+        "request_id": "req-8748",
+        "user_id": 488
+    },
+    {
+        "timestamp": "2025-02-24T16:39:53.093147Z",
+        "level": "WARNING",
+        "service": "database",
+        "message": "Log entry 81 - Sample log message for payment-gateway",
+        "request_id": "req-1960",
+        "user_id": 423
+    },
+    {
+        "timestamp": "2025-02-24T16:40:23.093147Z",
+        "level": "CRITICAL",
+        "service": "database",
+        "message": "Log entry 82 - Sample log message for user-service",
+        "request_id": "req-2025",
+        "user_id": 389
+    },
+    {
+        "timestamp": "2025-02-24T16:40:53.093147Z",
+        "level": "INFO",
+        "service": "payment-gateway",
+        "message": "Log entry 83 - Sample log message for database",
+        "request_id": "req-7588",
+        "user_id": 984
+    },
+    {
+        "timestamp": "2025-02-24T16:41:23.093147Z",
+        "level": "CRITICAL",
+        "service": "payment-gateway",
+        "message": "Log entry 84 - Sample log message for api-gateway",
+        "request_id": "req-7116",
+        "user_id": 608
+    },
+    {
+        "timestamp": "2025-02-24T16:41:53.093147Z",
+        "level": "ERROR",
+        "service": "user-service",
+        "message": "Log entry 85 - Sample log message for database",
+        "request_id": "req-9632",
+        "user_id": 772
+    },
+    {
+        "timestamp": "2025-02-24T16:42:23.093147Z",
+        "level": "WARNING",
+        "service": "auth-service",
+        "message": "Log entry 86 - Sample log message for payment-gateway",
+        "request_id": "req-8627",
+        "user_id": 534
+    },
+    {
+        "timestamp": "2025-02-24T16:42:53.093147Z",
+        "level": "CRITICAL",
+        "service": "payment-gateway",
+        "message": "Log entry 87 - Sample log message for database",
+        "request_id": "req-7414",
+        "user_id": 112
+    },
+    {
+        "timestamp": "2025-02-24T16:43:23.093147Z",
+        "level": "CRITICAL",
+        "service": "auth-service",
+        "message": "Log entry 88 - Sample log message for auth-service",
+        "request_id": "req-6920",
+        "user_id": null
+    },
+    {
+        "timestamp": "2025-02-24T16:43:53.093147Z",
+        "level": "ERROR",
+        "service": "auth-service",
+        "message": "Log entry 89 - Sample log message for api-gateway",
+        "request_id": "req-1927",
+        "user_id": null
+    },
+    {
+        "timestamp": "2025-02-24T16:44:23.093147Z",
+        "level": "ERROR",
+        "service": "payment-gateway",
+        "message": "Log entry 90 - Sample log message for user-service",
+        "request_id": "req-5619",
+        "user_id": 819
+    },
+    {
+        "timestamp": "2025-02-24T16:44:53.093147Z",
+        "level": "CRITICAL",
+        "service": "payment-gateway",
+        "message": "Log entry 91 - Sample log message for payment-gateway",
+        "request_id": "req-1132",
+        "user_id": 113
+    },
+    {
+        "timestamp": "2025-02-24T16:45:23.093147Z",
+        "level": "ERROR",
+        "service": "user-service",
+        "message": "Log entry 92 - Sample log message for auth-service",
+        "request_id": "req-5987",
+        "user_id": 733
+    },
+    {
+        "timestamp": "2025-02-24T16:45:53.093147Z",
+        "level": "ERROR",
+        "service": "auth-service",
+        "message": "Log entry 93 - Sample log message for auth-service",
+        "request_id": "req-8548",
+        "user_id": null
+    },
+    {
+        "timestamp": "2025-02-24T16:46:23.093147Z",
+        "level": "DEBUG",
+        "service": "api-gateway",
+        "message": "Log entry 94 - Sample log message for api-gateway",
+        "request_id": "req-6471",
+        "user_id": 340
+    },
+    {
+        "timestamp": "2025-02-24T16:46:53.093147Z",
+        "level": "CRITICAL",
+        "service": "api-gateway",
+        "message": "Log entry 95 - Sample log message for database",
+        "request_id": "req-5646",
+        "user_id": 307
+    },
+    {
+        "timestamp": "2025-02-24T16:47:23.093147Z",
+        "level": "DEBUG",
+        "service": "user-service",
+        "message": "Log entry 96 - Sample log message for payment-gateway",
+        "request_id": "req-9535",
+        "user_id": 750
+    },
+    {
+        "timestamp": "2025-02-24T16:47:53.093147Z",
+        "level": "WARNING",
+        "service": "database",
+        "message": "Log entry 97 - Sample log message for api-gateway",
+        "request_id": "req-8604",
+        "user_id": 419
+    },
+    {
+        "timestamp": "2025-02-24T16:48:23.093147Z",
+        "level": "CRITICAL",
+        "service": "user-service",
+        "message": "Log entry 98 - Sample log message for user-service",
+        "request_id": "req-9761",
+        "user_id": 116
+    },
+    {
+        "timestamp": "2025-02-24T16:48:53.093147Z",
+        "level": "DEBUG",
+        "service": "auth-service",
+        "message": "Log entry 99 - Sample log message for auth-service",
+        "request_id": "req-5280",
+        "user_id": 792
+    },
+    {
+        "timestamp": "2025-02-24T16:49:23.093147Z",
+        "level": "CRITICAL",
+        "service": "api-gateway",
+        "message": "Log entry 100 - Sample log message for payment-gateway",
+        "request_id": "req-5938",
+        "user_id": 942
+    },
+    {
+        "timestamp": "2025-02-24T16:49:53.093147Z",
+        "level": "CRITICAL",
+        "service": "auth-service",
+        "message": "Log entry 101 - Sample log message for auth-service",
+        "request_id": "req-2437",
+        "user_id": 132
+    },
+    {
+        "timestamp": "2025-02-24T16:50:23.093147Z",
+        "level": "WARNING",
+        "service": "api-gateway",
+        "message": "Log entry 102 - Sample log message for payment-gateway",
+        "request_id": "req-1611",
+        "user_id": 604
+    },
+    {
+        "timestamp": "2025-02-24T16:50:53.093147Z",
+        "level": "WARNING",
+        "service": "api-gateway",
+        "message": "Log entry 103 - Sample log message for api-gateway",
+        "request_id": "req-7584",
+        "user_id": null
+    },
+    {
+        "timestamp": "2025-02-24T16:51:23.093147Z",
+        "level": "DEBUG",
+        "service": "database",
+        "message": "Log entry 104 - Sample log message for payment-gateway",
+        "request_id": "req-7189",
+        "user_id": null
+    },
+    {
+        "timestamp": "2025-02-24T16:51:53.093147Z",
+        "level": "WARNING",
+        "service": "user-service",
+        "message": "Log entry 105 - Sample log message for auth-service",
+        "request_id": "req-3010",
+        "user_id": null
+    },
+    {
+        "timestamp": "2025-02-24T16:52:23.093147Z",
+        "level": "INFO",
+        "service": "database",
+        "message": "Log entry 106 - Sample log message for database",
+        "request_id": "req-8926",
+        "user_id": 956
+    },
+    {
+        "timestamp": "2025-02-24T16:52:53.093147Z",
+        "level": "CRITICAL",
+        "service": "database",
+        "message": "Log entry 107 - Sample log message for auth-service",
+        "request_id": "req-1410",
+        "user_id": 250
+    },
+    {
+        "timestamp": "2025-02-24T16:53:23.093147Z",
+        "level": "INFO",
+        "service": "payment-gateway",
+        "message": "Log entry 108 - Sample log message for database",
+        "request_id": "req-8200",
+        "user_id": 822
+    },
+    {
+        "timestamp": "2025-02-24T16:53:53.093147Z",
+        "level": "DEBUG",
+        "service": "database",
+        "message": "Log entry 109 - Sample log message for api-gateway",
+        "request_id": "req-8976",
+        "user_id": 390
+    },
+    {
+        "timestamp": "2025-02-24T16:54:23.093147Z",
+        "level": "DEBUG",
+        "service": "database",
+        "message": "Log entry 110 - Sample log message for payment-gateway",
+        "request_id": "req-8445",
+        "user_id": 637
+    },
+    {
+        "timestamp": "2025-02-24T16:54:53.093147Z",
+        "level": "INFO",
+        "service": "database",
+        "message": "Log entry 111 - Sample log message for api-gateway",
+        "request_id": "req-3589",
+        "user_id": 687
+    },
+    {
+        "timestamp": "2025-02-24T16:55:23.093147Z",
+        "level": "INFO",
+        "service": "user-service",
+        "message": "Log entry 112 - Sample log message for database",
+        "request_id": "req-4324",
+        "user_id": 326
+    },
+    {
+        "timestamp": "2025-02-24T16:55:53.093147Z",
+        "level": "WARNING",
+        "service": "user-service",
+        "message": "Log entry 113 - Sample log message for auth-service",
+        "request_id": "req-2048",
+        "user_id": 238
+    },
+    {
+        "timestamp": "2025-02-24T16:56:23.093147Z",
+        "level": "ERROR",
+        "service": "auth-service",
+        "message": "Log entry 114 - Sample log message for payment-gateway",
+        "request_id": "req-7694",
+        "user_id": 826
+    },
+    {
+        "timestamp": "2025-02-24T16:56:53.093147Z",
+        "level": "WARNING",
+        "service": "api-gateway",
+        "message": "Log entry 115 - Sample log message for api-gateway",
+        "request_id": "req-2558",
+        "user_id": 775
+    },
+    {
+        "timestamp": "2025-02-24T16:57:23.093147Z",
+        "level": "ERROR",
+        "service": "database",
+        "message": "Log entry 116 - Sample log message for database",
+        "request_id": "req-2933",
+        "user_id": null
+    },
+    {
+        "timestamp": "2025-02-24T16:57:53.093147Z",
+        "level": "CRITICAL",
+        "service": "api-gateway",
+        "message": "Log entry 117 - Sample log message for payment-gateway",
+        "request_id": "req-8144",
+        "user_id": 110
+    },
+    {
+        "timestamp": "2025-02-24T16:58:23.093147Z",
+        "level": "INFO",
+        "service": "api-gateway",
+        "message": "Log entry 118 - Sample log message for user-service",
+        "request_id": "req-6191",
+        "user_id": 890
+    },
+    {
+        "timestamp": "2025-02-24T16:58:53.093147Z",
+        "level": "ERROR",
+        "service": "user-service",
+        "message": "Log entry 119 - Sample log message for database",
+        "request_id": "req-8936",
+        "user_id": 136
+    },
+    {
+        "timestamp": "2025-02-24T16:59:23.093147Z",
+        "level": "ERROR",
+        "service": "api-gateway",
+        "message": "Log entry 120 - Sample log message for payment-gateway",
+        "request_id": "req-1269",
+        "user_id": null
+    },
+    {
+        "timestamp": "2025-02-24T16:59:53.093147Z",
+        "level": "INFO",
+        "service": "payment-gateway",
+        "message": "Log entry 121 - Sample log message for payment-gateway",
+        "request_id": "req-1284",
+        "user_id": 194
+    },
+    {
+        "timestamp": "2025-02-24T17:00:23.093147Z",
+        "level": "WARNING",
+        "service": "user-service",
+        "message": "Log entry 122 - Sample log message for payment-gateway",
+        "request_id": "req-2761",
+        "user_id": 526
+    },
+    {
+        "timestamp": "2025-02-24T17:00:53.093147Z",
+        "level": "DEBUG",
+        "service": "api-gateway",
+        "message": "Log entry 123 - Sample log message for database",
+        "request_id": "req-4521",
+        "user_id": null
+    },
+    {
+        "timestamp": "2025-02-24T17:01:23.093147Z",
+        "level": "ERROR",
+        "service": "api-gateway",
+        "message": "Log entry 124 - Sample log message for database",
+        "request_id": "req-7746",
+        "user_id": 417
+    },
+    {
+        "timestamp": "2025-02-24T17:01:53.093147Z",
+        "level": "INFO",
+        "service": "auth-service",
+        "message": "Log entry 125 - Sample log message for auth-service",
+        "request_id": "req-9322",
+        "user_id": 342
+    },
+    {
+        "timestamp": "2025-02-24T17:02:23.093147Z",
+        "level": "CRITICAL",
+        "service": "user-service",
+        "message": "Log entry 126 - Sample log message for database",
+        "request_id": "req-5749",
+        "user_id": null
+    },
+    {
+        "timestamp": "2025-02-24T17:02:53.093147Z",
+        "level": "INFO",
+        "service": "api-gateway",
+        "message": "Log entry 127 - Sample log message for auth-service",
+        "request_id": "req-6877",
+        "user_id": 562
+    },
+    {
+        "timestamp": "2025-02-24T17:03:23.093147Z",
+        "level": "INFO",
+        "service": "auth-service",
+        "message": "Log entry 128 - Sample log message for database",
+        "request_id": "req-8980",
+        "user_id": 174
+    },
+    {
+        "timestamp": "2025-02-24T17:03:53.093147Z",
+        "level": "DEBUG",
+        "service": "user-service",
+        "message": "Log entry 129 - Sample log message for payment-gateway",
+        "request_id": "req-6751",
+        "user_id": 915
+    },
+    {
+        "timestamp": "2025-02-24T17:04:23.093147Z",
+        "level": "DEBUG",
+        "service": "api-gateway",
+        "message": "Log entry 130 - Sample log message for user-service",
+        "request_id": "req-9633",
+        "user_id": 817
+    },
+    {
+        "timestamp": "2025-02-24T17:04:53.093147Z",
+        "level": "ERROR",
+        "service": "user-service",
+        "message": "Log entry 131 - Sample log message for database",
+        "request_id": "req-3017",
+        "user_id": 403
+    },
+    {
+        "timestamp": "2025-02-24T17:05:23.093147Z",
+        "level": "WARNING",
+        "service": "database",
+        "message": "Log entry 132 - Sample log message for user-service",
+        "request_id": "req-5694",
+        "user_id": 218
+    },
+    {
+        "timestamp": "2025-02-24T17:05:53.093147Z",
+        "level": "WARNING",
+        "service": "database",
+        "message": "Log entry 133 - Sample log message for user-service",
+        "request_id": "req-8188",
+        "user_id": 822
+    },
+    {
+        "timestamp": "2025-02-24T17:06:23.093147Z",
+        "level": "ERROR",
+        "service": "database",
+        "message": "Log entry 134 - Sample log message for auth-service",
+        "request_id": "req-6535",
+        "user_id": 234
+    },
+    {
+        "timestamp": "2025-02-24T17:06:53.093147Z",
+        "level": "CRITICAL",
+        "service": "database",
+        "message": "Log entry 135 - Sample log message for api-gateway",
+        "request_id": "req-1600",
+        "user_id": 498
+    },
+    {
+        "timestamp": "2025-02-24T17:07:23.093147Z",
+        "level": "ERROR",
+        "service": "user-service",
+        "message": "Log entry 136 - Sample log message for payment-gateway",
+        "request_id": "req-6181",
+        "user_id": 199
+    },
+    {
+        "timestamp": "2025-02-24T17:07:53.093147Z",
+        "level": "DEBUG",
+        "service": "api-gateway",
+        "message": "Log entry 137 - Sample log message for user-service",
+        "request_id": "req-8654",
+        "user_id": null
+    },
+    {
+        "timestamp": "2025-02-24T17:08:23.093147Z",
+        "level": "DEBUG",
+        "service": "user-service",
+        "message": "Log entry 138 - Sample log message for api-gateway",
+        "request_id": "req-4091",
+        "user_id": 964
+    },
+    {
+        "timestamp": "2025-02-24T17:08:53.093147Z",
+        "level": "CRITICAL",
+        "service": "auth-service",
+        "message": "Log entry 139 - Sample log message for user-service",
+        "request_id": "req-9699",
+        "user_id": 560
+    },
+    {
+        "timestamp": "2025-02-24T17:09:23.093147Z",
+        "level": "CRITICAL",
+        "service": "database",
+        "message": "Log entry 140 - Sample log message for api-gateway",
+        "request_id": "req-9966",
+        "user_id": null
+    },
+    {
+        "timestamp": "2025-02-24T17:09:53.093147Z",
+        "level": "CRITICAL",
+        "service": "user-service",
+        "message": "Log entry 141 - Sample log message for api-gateway",
+        "request_id": "req-1218",
+        "user_id": 167
+    },
+    {
+        "timestamp": "2025-02-24T17:10:23.093147Z",
+        "level": "INFO",
+        "service": "api-gateway",
+        "message": "Log entry 142 - Sample log message for api-gateway",
+        "request_id": "req-7963",
+        "user_id": 132
+    },
+    {
+        "timestamp": "2025-02-24T17:10:53.093147Z",
+        "level": "ERROR",
+        "service": "user-service",
+        "message": "Log entry 143 - Sample log message for auth-service",
+        "request_id": "req-4408",
+        "user_id": null
+    },
+    {
+        "timestamp": "2025-02-24T17:11:23.093147Z",
+        "level": "INFO",
+        "service": "database",
+        "message": "Log entry 144 - Sample log message for user-service",
+        "request_id": "req-8522",
+        "user_id": 343
+    },
+    {
+        "timestamp": "2025-02-24T17:11:53.093147Z",
+        "level": "WARNING",
+        "service": "database",
+        "message": "Log entry 145 - Sample log message for database",
+        "request_id": "req-8484",
+        "user_id": 462
+    },
+    {
+        "timestamp": "2025-02-24T17:12:23.093147Z",
+        "level": "ERROR",
+        "service": "user-service",
+        "message": "Log entry 146 - Sample log message for api-gateway",
+        "request_id": "req-6372",
+        "user_id": 596
+    },
+    {
+        "timestamp": "2025-02-24T17:12:53.093147Z",
+        "level": "INFO",
+        "service": "payment-gateway",
+        "message": "Log entry 147 - Sample log message for payment-gateway",
+        "request_id": "req-2013",
+        "user_id": null
+    },
+    {
+        "timestamp": "2025-02-24T17:13:23.093147Z",
+        "level": "ERROR",
+        "service": "auth-service",
+        "message": "Log entry 148 - Sample log message for auth-service",
+        "request_id": "req-6905",
+        "user_id": null
+    },
+    {
+        "timestamp": "2025-02-24T17:13:53.093147Z",
+        "level": "DEBUG",
+        "service": "api-gateway",
+        "message": "Log entry 149 - Sample log message for auth-service",
+        "request_id": "req-3274",
+        "user_id": 196
+    },
+    {
+        "timestamp": "2025-02-24T17:14:23.093147Z",
+        "level": "CRITICAL",
+        "service": "payment-gateway",
+        "message": "Log entry 150 - Sample log message for api-gateway",
+        "request_id": "req-4259",
+        "user_id": null
+    },
+    {
+        "timestamp": "2025-02-24T17:14:53.093147Z",
+        "level": "INFO",
+        "service": "user-service",
+        "message": "Log entry 151 - Sample log message for user-service",
+        "request_id": "req-5739",
+        "user_id": 430
+    },
+    {
+        "timestamp": "2025-02-24T17:15:23.093147Z",
+        "level": "ERROR",
+        "service": "auth-service",
+        "message": "Log entry 152 - Sample log message for database",
+        "request_id": "req-5250",
+        "user_id": 313
+    },
+    {
+        "timestamp": "2025-02-24T17:15:53.093147Z",
+        "level": "INFO",
+        "service": "payment-gateway",
+        "message": "Log entry 153 - Sample log message for payment-gateway",
+        "request_id": "req-2040",
+        "user_id": 287
+    },
+    {
+        "timestamp": "2025-02-24T17:16:23.093147Z",
+        "level": "WARNING",
+        "service": "user-service",
+        "message": "Log entry 154 - Sample log message for user-service",
+        "request_id": "req-9057",
+        "user_id": 638
+    },
+    {
+        "timestamp": "2025-02-24T17:16:53.093147Z",
+        "level": "DEBUG",
+        "service": "api-gateway",
+        "message": "Log entry 155 - Sample log message for database",
+        "request_id": "req-6245",
+        "user_id": null
+    },
+    {
+        "timestamp": "2025-02-24T17:17:23.093147Z",
+        "level": "ERROR",
+        "service": "payment-gateway",
+        "message": "Log entry 156 - Sample log message for payment-gateway",
+        "request_id": "req-7969",
+        "user_id": null
+    },
+    {
+        "timestamp": "2025-02-24T17:17:53.093147Z",
+        "level": "DEBUG",
+        "service": "payment-gateway",
+        "message": "Log entry 157 - Sample log message for payment-gateway",
+        "request_id": "req-2193",
+        "user_id": 886
+    },
+    {
+        "timestamp": "2025-02-24T17:18:23.093147Z",
+        "level": "INFO",
+        "service": "user-service",
+        "message": "Log entry 158 - Sample log message for user-service",
+        "request_id": "req-9270",
+        "user_id": 358
+    },
+    {
+        "timestamp": "2025-02-24T17:18:53.093147Z",
+        "level": "CRITICAL",
+        "service": "payment-gateway",
+        "message": "Log entry 159 - Sample log message for database",
+        "request_id": "req-5939",
+        "user_id": 734
+    },
+    {
+        "timestamp": "2025-02-24T17:19:23.093147Z",
+        "level": "DEBUG",
+        "service": "user-service",
+        "message": "Log entry 160 - Sample log message for payment-gateway",
+        "request_id": "req-7459",
+        "user_id": 988
+    },
+    {
+        "timestamp": "2025-02-24T17:19:53.093147Z",
+        "level": "WARNING",
+        "service": "api-gateway",
+        "message": "Log entry 161 - Sample log message for database",
+        "request_id": "req-8654",
+        "user_id": 969
+    },
+    {
+        "timestamp": "2025-02-24T17:20:23.093147Z",
+        "level": "DEBUG",
+        "service": "api-gateway",
+        "message": "Log entry 162 - Sample log message for database",
+        "request_id": "req-4110",
+        "user_id": null
+    },
+    {
+        "timestamp": "2025-02-24T17:20:53.093147Z",
+        "level": "INFO",
+        "service": "payment-gateway",
+        "message": "Log entry 163 - Sample log message for payment-gateway",
+        "request_id": "req-3761",
+        "user_id": 704
+    },
+    {
+        "timestamp": "2025-02-24T17:21:23.093147Z",
+        "level": "CRITICAL",
+        "service": "api-gateway",
+        "message": "Log entry 164 - Sample log message for auth-service",
+        "request_id": "req-2258",
+        "user_id": 191
+    },
+    {
+        "timestamp": "2025-02-24T17:21:53.093147Z",
+        "level": "DEBUG",
+        "service": "user-service",
+        "message": "Log entry 165 - Sample log message for database",
+        "request_id": "req-3482",
+        "user_id": 101
+    },
+    {
+        "timestamp": "2025-02-24T17:22:23.093147Z",
+        "level": "INFO",
+        "service": "database",
+        "message": "Log entry 166 - Sample log message for api-gateway",
+        "request_id": "req-3672",
+        "user_id": 119
+    },
+    {
+        "timestamp": "2025-02-24T17:22:53.093147Z",
+        "level": "INFO",
+        "service": "payment-gateway",
+        "message": "Log entry 167 - Sample log message for payment-gateway",
+        "request_id": "req-6906",
+        "user_id": 208
+    },
+    {
+        "timestamp": "2025-02-24T17:23:23.093147Z",
+        "level": "WARNING",
+        "service": "payment-gateway",
+        "message": "Log entry 168 - Sample log message for payment-gateway",
+        "request_id": "req-3901",
+        "user_id": 749
+    },
+    {
+        "timestamp": "2025-02-24T17:23:53.093147Z",
+        "level": "CRITICAL",
+        "service": "auth-service",
+        "message": "Log entry 169 - Sample log message for payment-gateway",
+        "request_id": "req-4785",
+        "user_id": 418
+    },
+    {
+        "timestamp": "2025-02-24T17:24:23.093147Z",
+        "level": "ERROR",
+        "service": "api-gateway",
+        "message": "Log entry 170 - Sample log message for auth-service",
+        "request_id": "req-3568",
+        "user_id": 357
+    },
+    {
+        "timestamp": "2025-02-24T17:24:53.093147Z",
+        "level": "INFO",
+        "service": "auth-service",
+        "message": "Log entry 171 - Sample log message for user-service",
+        "request_id": "req-9993",
+        "user_id": 989
+    },
+    {
+        "timestamp": "2025-02-24T17:25:23.093147Z",
+        "level": "INFO",
+        "service": "auth-service",
+        "message": "Log entry 172 - Sample log message for user-service",
+        "request_id": "req-4535",
+        "user_id": 163
+    },
+    {
+        "timestamp": "2025-02-24T17:25:53.093147Z",
+        "level": "INFO",
+        "service": "user-service",
+        "message": "Log entry 173 - Sample log message for auth-service",
+        "request_id": "req-7039",
+        "user_id": 292
+    },
+    {
+        "timestamp": "2025-02-24T17:26:23.093147Z",
+        "level": "ERROR",
+        "service": "user-service",
+        "message": "Log entry 174 - Sample log message for user-service",
+        "request_id": "req-3895",
+        "user_id": 695
+    },
+    {
+        "timestamp": "2025-02-24T17:26:53.093147Z",
+        "level": "WARNING",
+        "service": "api-gateway",
+        "message": "Log entry 175 - Sample log message for database",
+        "request_id": "req-1689",
+        "user_id": 586
+    },
+    {
+        "timestamp": "2025-02-24T17:27:23.093147Z",
+        "level": "WARNING",
+        "service": "auth-service",
+        "message": "Log entry 176 - Sample log message for payment-gateway",
+        "request_id": "req-7298",
+        "user_id": 185
+    },
+    {
+        "timestamp": "2025-02-24T17:27:53.093147Z",
+        "level": "ERROR",
+        "service": "auth-service",
+        "message": "Log entry 177 - Sample log message for api-gateway",
+        "request_id": "req-4956",
+        "user_id": 388
+    },
+    {
+        "timestamp": "2025-02-24T17:28:23.093147Z",
+        "level": "WARNING",
+        "service": "database",
+        "message": "Log entry 178 - Sample log message for database",
+        "request_id": "req-3960",
+        "user_id": null
+    },
+    {
+        "timestamp": "2025-02-24T17:28:53.093147Z",
+        "level": "WARNING",
+        "service": "database",
+        "message": "Log entry 179 - Sample log message for user-service",
+        "request_id": "req-4140",
+        "user_id": null
+    },
+    {
+        "timestamp": "2025-02-24T17:29:23.093147Z",
+        "level": "INFO",
+        "service": "payment-gateway",
+        "message": "Log entry 180 - Sample log message for auth-service",
+        "request_id": "req-6789",
+        "user_id": 237
+    },
+    {
+        "timestamp": "2025-02-24T17:29:53.093147Z",
+        "level": "DEBUG",
+        "service": "database",
+        "message": "Log entry 181 - Sample log message for user-service",
+        "request_id": "req-6178",
+        "user_id": 874
+    },
+    {
+        "timestamp": "2025-02-24T17:30:23.093147Z",
+        "level": "INFO",
+        "service": "payment-gateway",
+        "message": "Log entry 182 - Sample log message for api-gateway",
+        "request_id": "req-8502",
+        "user_id": null
+    },
+    {
+        "timestamp": "2025-02-24T17:30:53.093147Z",
+        "level": "ERROR",
+        "service": "database",
+        "message": "Log entry 183 - Sample log message for payment-gateway",
+        "request_id": "req-6686",
+        "user_id": null
+    },
+    {
+        "timestamp": "2025-02-24T17:31:23.093147Z",
+        "level": "WARNING",
+        "service": "api-gateway",
+        "message": "Log entry 184 - Sample log message for auth-service",
+        "request_id": "req-7084",
+        "user_id": 682
+    },
+    {
+        "timestamp": "2025-02-24T17:31:53.093147Z",
+        "level": "ERROR",
+        "service": "api-gateway",
+        "message": "Log entry 185 - Sample log message for api-gateway",
+        "request_id": "req-3906",
+        "user_id": 563
+    },
+    {
+        "timestamp": "2025-02-24T17:32:23.093147Z",
+        "level": "WARNING",
+        "service": "payment-gateway",
+        "message": "Log entry 186 - Sample log message for database",
+        "request_id": "req-6183",
+        "user_id": 138
+    },
+    {
+        "timestamp": "2025-02-24T17:32:53.093147Z",
+        "level": "DEBUG",
+        "service": "payment-gateway",
+        "message": "Log entry 187 - Sample log message for database",
+        "request_id": "req-1509",
+        "user_id": 788
+    },
+    {
+        "timestamp": "2025-02-24T17:33:23.093147Z",
+        "level": "INFO",
+        "service": "payment-gateway",
+        "message": "Log entry 188 - Sample log message for user-service",
+        "request_id": "req-9974",
+        "user_id": 932
+    },
+    {
+        "timestamp": "2025-02-24T17:33:53.093147Z",
+        "level": "CRITICAL",
+        "service": "api-gateway",
+        "message": "Log entry 189 - Sample log message for api-gateway",
+        "request_id": "req-4118",
+        "user_id": null
+    },
+    {
+        "timestamp": "2025-02-24T17:34:23.093147Z",
+        "level": "ERROR",
+        "service": "auth-service",
+        "message": "Log entry 190 - Sample log message for user-service",
+        "request_id": "req-5553",
+        "user_id": 895
+    },
+    {
+        "timestamp": "2025-02-24T17:34:53.093147Z",
+        "level": "WARNING",
+        "service": "auth-service",
+        "message": "Log entry 191 - Sample log message for auth-service",
+        "request_id": "req-3711",
+        "user_id": 686
+    },
+    {
+        "timestamp": "2025-02-24T17:35:23.093147Z",
+        "level": "WARNING",
+        "service": "auth-service",
+        "message": "Log entry 192 - Sample log message for user-service",
+        "request_id": "req-5724",
+        "user_id": 497
+    },
+    {
+        "timestamp": "2025-02-24T17:35:53.093147Z",
+        "level": "WARNING",
+        "service": "database",
+        "message": "Log entry 193 - Sample log message for database",
+        "request_id": "req-2160",
+        "user_id": 704
+    },
+    {
+        "timestamp": "2025-02-24T17:36:23.093147Z",
+        "level": "CRITICAL",
+        "service": "api-gateway",
+        "message": "Log entry 194 - Sample log message for auth-service",
+        "request_id": "req-4703",
+        "user_id": 701
+    },
+    {
+        "timestamp": "2025-02-24T17:36:53.093147Z",
+        "level": "CRITICAL",
+        "service": "payment-gateway",
+        "message": "Log entry 195 - Sample log message for payment-gateway",
+        "request_id": "req-8887",
+        "user_id": 615
+    },
+    {
+        "timestamp": "2025-02-24T17:37:23.093147Z",
+        "level": "INFO",
+        "service": "database",
+        "message": "Log entry 196 - Sample log message for user-service",
+        "request_id": "req-3505",
+        "user_id": 433
+    },
+    {
+        "timestamp": "2025-02-24T17:37:53.093147Z",
+        "level": "ERROR",
+        "service": "payment-gateway",
+        "message": "Log entry 197 - Sample log message for auth-service",
+        "request_id": "req-2910",
+        "user_id": 824
+    },
+    {
+        "timestamp": "2025-02-24T17:38:23.093147Z",
+        "level": "CRITICAL",
+        "service": "payment-gateway",
+        "message": "Log entry 198 - Sample log message for user-service",
+        "request_id": "req-8980",
+        "user_id": 922
+    },
+    {
+        "timestamp": "2025-02-24T17:38:53.093147Z",
+        "level": "ERROR",
+        "service": "user-service",
+        "message": "Log entry 199 - Sample log message for user-service",
+        "request_id": "req-5960",
+        "user_id": 857
+    }
+]
